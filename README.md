@@ -6,4 +6,4 @@ I am currently working on Kyozan, a reverse shell tool.
 
 My projects include:
 - [Flux](https://github.com/blaze0x0/flux)     - A templating language
-- [Kyozan](https://github.com/blaze0x0/kyozan) - A reverse shell tool
+- [Psycho](https://github.com/blaze0x0/psycho) - I dont know probs a post exploitation tool
